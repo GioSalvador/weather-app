@@ -77,7 +77,7 @@
 - Automated Testing: integrate Jest and React Testing Library for unit and integration tests.  
 
 Feel free to check out my GitHub profile @GioSalvador for more projects.
-I’m open to connect on LinkedIn, discuss collaborations or job opportunities.
+I’m open to connect on [LinkedIn](https://www.linkedin.com/in/giovani-salvador/) or via [Email](mailto:gsalvador9817@gmail.com) to discuss collaborations or job opportunities.
 
 Thank you for visiting my portfolio project!
    
