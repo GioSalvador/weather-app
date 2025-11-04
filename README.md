@@ -7,7 +7,7 @@
 
 ---
 
-## 🧩 Why This Project
+## 🧩 On This Project
 
 - Demonstrates a solid grasp of frontend fundamentals in React including **state management**, **API integration**, and **component-based architecture**.  
 - Showcases styling with Styled Components for modular, reusable CSS-in-JS.  
@@ -24,7 +24,7 @@
 - **OpenWeatherMap API** – Weather data provider  
 - **Vercel** – Hosting and continuous deployment  
 - **Git & GitHub** – Version control and collaboration  
-- **ESLint / Prettier** (if applicable) – Code quality & formatting  
+- **ESLint / Prettier**  – Code quality & formatting  
 
 ---
 
