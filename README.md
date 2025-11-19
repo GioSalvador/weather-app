@@ -7,7 +7,7 @@
 
 ---
 
-## 🧩 On This Project
+## On This Project
 
 - Demonstrates a solid grasp of frontend fundamentals in React including **state management**, **API integration**, and **component-based architecture**.  
 - Showcases styling with Styled Components for modular, reusable CSS-in-JS.  
@@ -16,7 +16,7 @@
 
 ---
 
-## 📦 Technologies & Tools
+## Technologies & Tools
 
 - **React.js** – Front-end UI library  
 - **Styled Components** – CSS-in-JS for styled React components  
@@ -28,7 +28,7 @@
 
 ---
 
-## 🛠️ Features
+## Features
 
 - Search input for cities (by name) to fetch current weather + forecast  
 - Display of weather conditions: temperature, humidity, wind, iconography  
@@ -39,7 +39,7 @@
 
 ---
 
-## 🚀 Getting Started (Local Setup)
+## Getting Started (Local Setup)
 
 1. Clone the repository:  
    ```bash
@@ -60,7 +60,7 @@
    
 5. Open http://localhost:3000 in your browser to view the app.
 
-## ✅ What I Learned
+## What I Learned
 
 - How to structure React projects for maintainability and separation of concerns 
 - Integrating and handling asynchronous API calls using Axios and React hooks  
@@ -69,7 +69,7 @@
 - Debugging UI issues, handling edge-cases like no results or API errors
 - Deploying a React application with continuous deployment via Vercel  
 
-## 🎯 Future Enhancements
+## Future Enhancements
 
 - Dynamic Thematic UI: transform the entire interface based on the current weather, a sunny city will feature bright skies and warm tones, cloudy conditions will bring softer gradients, and rainy weather will include subtle rain animations for a more immersive experience. 
 - Geolocation Detection: automatically identify the user’s location and show local weather instantly. 
@@ -77,7 +77,7 @@
 - Automated Testing: integrate Jest and React Testing Library for unit and integration tests.  
 
 Feel free to check out my GitHub profile @GioSalvador for more projects.
-I’m open to connect on [LinkedIn](https://www.linkedin.com/in/giovani-salvador/) or via Email: gsalvador9817@gmail.com to discuss collaborations or job opportunities.
+I’m open to connect on [LinkedIn](https://www.linkedin.com/in/giovani-salvador/) or via E-mail: gsalvador9817@gmail.com to discuss collaborations or job opportunities.
 
 Thank you for visiting my portfolio project!
    
